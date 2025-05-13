@@ -89,6 +89,14 @@ I began my journey in a global BPO firm as a frontline agent and rose through th
 
 ---
 
+## 📈 GitHub Stats
+
+> 📊 Showcasing some open-source contributions and coding experiments
+
+![Pez's GitHub stats](https://github-readme-stats.vercel.app/api?username=pezlee&show_icons=true&theme=graywhite)
+
+---
+
 ## 📫 Contact
 
 - ✉️ Email: crazy4pez@gmail.com 
