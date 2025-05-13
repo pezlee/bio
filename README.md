@@ -119,14 +119,6 @@ In recent years, I transitioned into a project-focused role akin to Delivery Man
 
 ---
 
-## 📈 GitHub Stats
-
-> 📊 Showcasing some open-source contributions and coding experiments
-
-![Pez's GitHub stats](https://github-readme-stats.vercel.app/api?username=pezlee&show_icons=true&theme=graywhite)
-
----
-
 ## 📫 Contact
 
 - ✉️ Email: crazy4pez@gmail.com 
