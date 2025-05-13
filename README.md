@@ -113,7 +113,8 @@ In recent years, I transitioned into a project-focused role akin to Delivery Man
 
 - 🎖 2024 Outstanding Project Award  
 - 🎖 2023 Department Values Star  
-- 🎖 2019 & 2018 Service Excellence Award (Shopee)  
+- 🎖 2019 Service Excellence Award 
+- 🎖 2018 Service Excellence Award 
 - 🎖 2015 Yahoo! Excellence Award  
 - 🎖 2007 WOW Customer Service Agent Award  
 
