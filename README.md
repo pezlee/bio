@@ -3,7 +3,7 @@
 
 # 👋 Hello! I'm Pez!
 
-🎯 **Delivering Impact Through Strategy & Execution**
+🎯 **Customer Service, QA & Project Management | Delivering Impact Through Strategy & Executionn**
 
 > 凡事往簡單處想，往認真處做  
 > *Have courage and always be kind*
