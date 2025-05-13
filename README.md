@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/banner.png" alt="Pez Lee Banner" style="width:100%; border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/pezlee/pezlee/main/banner.png" alt="Pez Lee Banner" style="width:100%; border-radius:10px;" />
 
 # 👋 Hello! I'm Pez!
 
