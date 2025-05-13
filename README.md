@@ -1,7 +1,23 @@
-# 👋 Hi, I'm Pez Lee (Shao Yu, Lee)
+# 👋 Hi, I'm Pez!
 
 🎯 Passionate and award-winning customer experience leader with 15+ years of experience scaling service operations across top tech platforms. Specialized in building high-performing teams, launching innovative support solutions, and delivering cross-functional initiatives that create measurable impact.
 
+---
+
+## 💡 About Me
+
+I began my journey in a global BPO firm as a frontline agent and rose through the ranks to training and QA roles. Recognized for my performance, I was recruited by a client to join their in-house operations team—marking the start of a dynamic career spanning leadership in QA, training, and strategic project delivery.
+
+---
+
+## 🏆 Career Highlights
+
+- 🎯 **Founding member** of a global QA team, setting quality standards across Asia
+- 🚀 Launched the **Yahoo! Taiwan Auction App** and created the platform’s first **Video Help Center**
+- 🤝 Co-developed **Yapee**, Taiwan’s first e-commerce escrow service with CTBC Bank
+- 🏗️ Built Shopee’s TQA team from scratch, earning back-to-back **Service Excellence Awards**
+- 💬 Led CRM transformation, **CS ticketing system** rollout, chatbot optimization, and internet call implementation
+  
 ---
 
 ## 💼 Experience
@@ -28,12 +44,12 @@
 ## 📚 Education
 
 🎓 **National Taiwan Normal University**  
-*Graduate Institute of Graphic Arts and Communications*  
-- Major: Information and Communications  
-- Minor: Graphic Communications and Digital Publishing  
+- Graduate Institute of Graphic Arts and Communications
 
 🎓 **Shih Hsin University**  
-
+- Major: Information and Communications  
+- Minor: Graphic Communications and Digital Publishing
+  
 ---
 
 ## 🧠 Skills
@@ -73,13 +89,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Pez's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
-
 ## 📫 Contact
 
 - ✉️ Email: crazy4pez@gmail.com 
 - 🌐 LinkedIn: https://www.linkedin.com/in/pezlee/
+
+---
+
+*Thanks for visiting my profile! I'm currently open to new challenges in customer experience strategy, operations leadership, and service innovation.*
