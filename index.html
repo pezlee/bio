@@ -23,12 +23,27 @@
     code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
     a { color: #2563eb; text-decoration: none; }
     a:hover { text-decoration: underline; }
+
+  html {
+  scroll-behavior: smooth;
+}
+
   </style>
 </head>
 <body>
 <p><!-- Banner -->
 <img src="https://raw.githubusercontent.com/pezlee/pezlee/main/banner.png" alt="Nice to e-meeting you!" style="width:120%; border-radius:10px;" /></p>
 
+<!-- 書籤導覽列 -->
+<nav style="position: sticky; top: 0; background: white; padding: 12px 0; border-bottom: 1px solid #ddd; text-align: center; z-index: 999;">
+  <a href="#about" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #1f6feb;">About</a>
+  <a href="#highlights" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #1f6feb;">Highlights</a>
+  <a href="#achievements" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #1f6feb;">Achievements</a>
+  <a href="#experience" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #1f6feb;">Experience</a>
+  <a href="#skills" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #1f6feb;">Skills</a>
+  <a href="#contact" style="margin: 0 15px; text-decoration: none; font-weight: bold; color: #1f6feb;">Contact</a>
+</nav>
+  
 <!-- 浮動在畫面最上方中央 -->
 <div style="position: fixed; top: 20px; left: 50%; transform: translateX(-50%); z-index: 999; background: white; padding: 8px 16px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
   <a href="https://pezlee.github.io/resume/zh-tw.html" style="text-decoration: none; font-weight: bold; color: #1f6feb;">
@@ -40,13 +55,13 @@
 <p><blockquote>Motivated professional seeking opportunities in  customer experience, project management, process optimization, or quality assurance — ideally in Taichung or hybrid/remote. Open to all types of collaboration.🙌</blockquote></p>
 <hr />
 
-<h2>🐠 About Me</h2>
+<h2 id="about">🐠 About Me</h2>
 
 <p>Driven by a passion for enhancing customer experiences, I have progressed from a frontline agent in a global BPO firm to leadership roles in QA, training, and operations. My career includes establishing QA operations, managing BPO vendors, and leading impactful projects such as launching the Yahoo! Taiwan Auction App and creating its first Video Help Center. I also co-developed Yapee, a pioneering e-commerce escrow service. At Shopee, I built the TQA team from the ground up, earning consecutive Service Excellence Awards, and spearheaded CRM transformation initiatives. I am committed to leveraging my expertise to build meaningful customer experiences through innovation and collaboration.</p>
 
 <hr />
   
-<h2>✨  Highlights</h2>
+<h2 id="highlights">✨  Highlights</h2>
 
 <ul>
 <li>🎯 Founding member of a global QA team, setting quality standards across Asia.</li>
@@ -58,7 +73,7 @@
 
 <hr />
   
-<h2>🏆 Achievements</h2>
+<h2 id="achievements">🏆 Achievements</h2>
 
 <ul>
 <li>🥇 2024 Outstanding Project Award  </li>
@@ -71,7 +86,7 @@
 
 <hr />
   
-<h2>💼 Experience</h2>
+<h2 id="experience">💼 Experience</h2>
 
 <h3>🛒 Shopee (2016 - 2025)</h3>
 
@@ -94,7 +109,7 @@
 
 <hr />
 
-<h2>🧠 Skills</h2>
+<h2 id="skills">🧠 Skills</h2>
 
 <h3>✨ Professional Skills</h3>
 
@@ -149,7 +164,7 @@
 
 <hr />
   
-<h2>📫 Contact</h2>
+<h2 id="contact">📫 Contact</h2>
 
 <ul>
 <li>📩 Email: <a href="mailto:courage4pez@gmail.com"> courage4pez@gmail.com </a></li>
