@@ -20,9 +20,3 @@ I’m a customer experience & operations professional with a strong background i
 - Jira, Notion, Trello, Google Workspace  
 - Excel, HTML/CSS, Figma (basic), Google Analytics  
 - Process Mapping, QA, Stakeholder Coordination, Service Design Thinking
-
----
-
-📄 [Check out my full bio](https://pezlee.github.io/bio/)  
-🌐 [中文介紹版本](https://pezlee.github.io/bio/zh-tw.html)
----
