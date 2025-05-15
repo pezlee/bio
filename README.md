@@ -15,8 +15,4 @@ I’m a customer experience & operations professional with a strong background i
 🤝 Open to diverse collaboration opportunities!
 
 ---
-
-### 🔧 Tools & Skills
-- Jira, Notion, Trello, Google Workspace  
-- Excel, HTML/CSS, Figma (basic), Google Analytics  
-- Process Mapping, QA, Stakeholder Coordination, Service Design Thinking
+<img src="https://raw.githubusercontent.com/pezlee/pezlee/main/zhbanner.png" alt="Pez Lee Banner" style="width:100%; border-radius:10px;" />
