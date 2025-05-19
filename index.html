@@ -200,21 +200,12 @@
 <ul>
 <li>📩 Email: <a href="mailto:courage4pez@gmail.com"> courage4pez@gmail.com </a></li>
 <li>🌐 Linkedin: <a href="https://www.linkedin.com/in/pezlee/"> Pez (Shao Yu) Lee's Profile </a></li>
-<li>💬 Whatsapp:<br />
+<li>💬 Instant Message:<br />
   <img src="https://raw.githubusercontent.com/pezlee/pezlee/main/whatsapp.png"  alt="Whatsapp" style="width:20%; border-radius:10px;" /></li>
+  <img src="https://raw.githubusercontent.com/pezlee/pezlee/main/line.png"  alt="LineID" style="width:20%; border-radius:10px;" /></li>
 </ul>
 
   <script>
-  // 追蹤 Email 點擊
-  document.querySelectorAll('a[href^="mailto:"]').forEach(function(el) {
-    el.addEventListener('click', function() {
-      gtag('event', 'click_email', {
-        event_category: 'Contact',
-        event_label: el.href
-      });
-    });
-  });
-
   // 追蹤 LinkedIn 點擊
   document.querySelectorAll('a[href*="linkedin.com"]').forEach(function(el) {
     el.addEventListener('click', function() {
@@ -228,7 +219,7 @@
   // 追蹤版本切換
   document.querySelectorAll('a[href*="zh-tw.html"]').forEach(function(el) {
     el.addEventListener('click', function() {
-      gtag('event', 'click_linkedin', {
+      gtag('event', 'click_action', {
         event_category: 'Social',
         event_label: el.href
       });
